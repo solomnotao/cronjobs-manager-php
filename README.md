@@ -1,6 +1,11 @@
 # cronjobs-manager-php
 function control cronjobs using php
 
+HOW TO
+1. Clone Or Download cron.php
+2. Include file cron.php
+Finishhhhhh
+
 ex.
 
 Add Cronjobs 
