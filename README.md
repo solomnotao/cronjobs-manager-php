@@ -2,6 +2,7 @@
 function control cronjobs using php
 
 ex.
+
 Add Cronjobs 
 add_cronjob('* * * * * curl -s https://example.com/run.php');
 
